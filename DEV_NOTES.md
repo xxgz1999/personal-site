@@ -14,3 +14,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-30
 - Added type hints to helper functions
 - Wrote notes on upcoming feature design
+
+## 2026-03-30
+- Refactored module structure for clarity
+- Added healthcheck endpoint stub
