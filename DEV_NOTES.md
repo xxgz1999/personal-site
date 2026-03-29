@@ -10,3 +10,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-23
 - Tested build on clean environment
 - Verified compatibility with latest runtime version
+
+## 2026-03-30
+- Added type hints to helper functions
+- Wrote notes on upcoming feature design
