@@ -18,3 +18,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-30
 - Refactored module structure for clarity
 - Added healthcheck endpoint stub
+
+## 2026-03-30
+- Investigated performance bottleneck, noted findings
